@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tharindu Udayanga</h1>
+<h3 align="center">Data Engineer</h3>
 <h3 align="center">I'm an undergraduate student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharinduudayanga" alt="tharinduudayanga" /></a> </p>
 
 - 🔭 I’m currently learning working on **Data Science**
 
-- 👯 I’m currently working as a **Data Analyst Trainee**
+- 👯 I’m currently working as a **Data Engineer**
 
 - 🤝 I’m interested in **data analytics, data mining, -artificial intelligence,machine learning**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFBzRi4_yk/2cggOFMeYECzrZ19IoBesg/view?utm_content=DAFBzRi4_yk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFBzRi4_yk/2cggOFMeYECzrZ19IoBesg/view?utm_content=DAFBzRi4_yk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFBzRi4_yk/2cggOFMeYECzrZ19IoBesg/view?utm_content=DAFBzRi4_yk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFoHdeS9Lw/NUIUTZn_OY_eXinEcbGG0g/view?utm_content=DAFoHdeS9Lw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
